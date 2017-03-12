@@ -46,7 +46,13 @@ Simply type the translations for the key system ask.
 ### Exemple
 Try by executing multilanng.py itself if you delete or empty "jsonSave.json":
 ~~~
-[No translation for 'hello'] [No translation for 'world']                                                             [No translation for 'hello'] [No translation for 'world']                                                                                                                                                                       --Multilanng interactive Mode--                                                                                   Translation fr of [hello] : bonj   <--our input is 'bonj'                                                         Translation en of [hello] : hi                                                                                      Translation fr of [world] : monde                                                                                 Translation en of [world] : world  
+[No translation for 'hello'] [No translation for 'world']
+[No translation for 'hello'] [No translation for 'world']
+--Multilanng interactive Mode--
+Translation fr of [hello] : bonj   <--our input is 'bonj'
+Translation en of [hello] : hi 
+Translation fr of [world] : monde
+Translation en of [world] : world  
 ~~~
 
 New execution will produce: 
