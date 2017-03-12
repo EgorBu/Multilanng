@@ -2,6 +2,8 @@
 Python simple multi-language module.  
 Focus on be easy to use.  
 
+Warning: Still in early alpha, only support 2 languages
+
 ## How to use
 Import the library multilanng
 Choose a file to store translations (will be created if missing):  
